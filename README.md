@@ -3,21 +3,6 @@
 When you just can't remember what a command is or don't want to use git help at the command line, this Git cheat sheet comes in handy. 😄
 Since it might be challenging to learn every significant Git command by heart 💖, save this repository :bookmark: for help when you need it.
 
-## Table of Contents
-
-- [Configuration](#configuration)
-- [Repository Initialization](#repository-initialization)
-- [Branching and Merging](#branching-and-merging)
-- [Working with Remotes](#working-with-remotes)
-- [Committing Changes](#committing-changes)
-- [Inspecting and Comparing](#inspecting-and-comparing)
-- [Undoing Changes](#undoing-changes)
-- [Stashing Changes](#stashing-changes)
-- [Working with Tags](#working-with-tags)
-- [Collaboration](#collaboration)
-- [Git Flow Workflow](#git-flow-workflow)
-- [Rebase Workflow](#rebase-workflow)
-
 ## Configuration
 
 | Command                              | Description                                      |
